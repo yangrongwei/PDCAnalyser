@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2cea9006-e210-42e3-9e86-87b7868e7cb4)# PDCAnalyser
+# PDCAnalyser
 
 PDCAnalyser, privately nicknamed, __Please Don't Consider Asking__ is a set of tools designed to make you understand instead of wondering how PDC interrupts work on select Qualcomm Compute Platforms ACPI Tables and Driver sets (both are bound together)
 
